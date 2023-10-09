@@ -1,0 +1,23 @@
+:root{
+    --colorBtn:#F90;
+}
+.btn-primary{
+    background-color: var(--colorBtn) !important;
+}
+.btn-primary:hover{
+    background-color: brown !important;
+}
+body{
+    background-color: lightblue;
+}
+section{
+   gap: 25px;
+}
+ .card{
+    width: 18rem;
+} 
+
+
+.fondo{
+    background-color: tomato;
+}
